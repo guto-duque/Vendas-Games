@@ -1,4 +1,4 @@
-# ProjetoVendasGame
+# Projeto Vendas-Games
 
 ![NPM](https://img.shields.io/npm/l/react)
 
@@ -6,7 +6,7 @@ Projeto de Analise de Dados com Python e Panda
 # Sobre o projeto
 
 
-VendasGame é uma aplicação construída para avaliação em análise de dados promovida pelo Bootcamp **Banco Carrefour Data Engineer** , organizado pela [Digital Innovation One](https://web.digitalinnovation.one/track/banco-carrefour-data-engineer "Site da Digital Innovation One - DIO").
+Vendas-Games é uma aplicação construída para avaliação em análise de dados promovida pelo Bootcamp **Banco Carrefour Data Engineer** , organizado pela [Digital Innovation One](https://web.digitalinnovation.one/track/banco-carrefour-data-engineer "Site da Digital Innovation One - DIO").
 
 A aplicação consiste em uma pesquisa e análise de dados de games vendidos, onde os dados são coletados de um arquivo .csv retirado do repositório Kaggle o qual pode ser baixado aqui [.csv](https://www.kaggle.com/gregorut/videogamesales), e depois de tratados são mostrados no jupyter notebook / colab, o qual também apresenta gráficos baseados nestes dados.
 
