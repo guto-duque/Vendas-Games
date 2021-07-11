@@ -30,9 +30,9 @@ acessar a pasta do projeto, fazer upload da mesma para a tecnologia de manipula�
 através do terminal/prompt com o comando: jupyter notebook
 
 As tecnologias utilizadas para o projeto podem ser encontradas aqui:
-[Python](https://www.python.org/)
-[Jupyter Notebook](https://jupyter.org/)
-[Colab](https://colab.research.google.com/notebooks)
+-[Python](https://www.python.org/)
+-[Jupyter Notebook](https://jupyter.org/)
+-[Colab](https://colab.research.google.com/notebooks)
 
 ```bash
 # clonar repositório
@@ -50,7 +50,7 @@ Pré-requisitos: Jupyter notebook / Colab
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/guto-duque/ProjetoVendasGame
 
 ```
 
@@ -67,3 +67,4 @@ pip install numpy
 
 # Autor
 guto-duque
+https://github.com/guto-duque/ProjetoVendasGame
