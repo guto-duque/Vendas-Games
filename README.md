@@ -1,6 +1,6 @@
 # Projeto Vendas-Games
 
-![NPM](https://img.shields.io/npm/l/react)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/guto-duque/Vendas-Games/blob/main/LICENSE)
 
 Projeto de Análise de Dados com Python e Panda
 # Sobre o projeto
