@@ -56,7 +56,7 @@ git clone https://github.com/guto-duque/ProjetoVendasGame
 
 ```
 
-# entrar na pasta do projeto front end
+# entrar na pasta do projeto
 cd VendasGame
 
 # instalar dependências
