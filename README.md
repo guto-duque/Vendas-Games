@@ -38,7 +38,7 @@ As tecnologias utilizadas para o projeto podem ser encontradas aqui:
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+https://github.com/guto-duque/ProjetoVendasGame
 
 # entrar na pasta do projeto back end
 cd backend
