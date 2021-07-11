@@ -1,4 +1,7 @@
 # ProjetoVendasGame
+
+[![NPM](https://img.shields.io/npm/l/react)]
+
 Projeto de Analise de Dados com Python e Panda
 # Sobre o projeto
 
